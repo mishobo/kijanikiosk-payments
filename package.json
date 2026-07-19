@@ -9,9 +9,6 @@
     "test": "node --test test/"
   },
   "license": "UNLICENSED",
-  "dependencies": {
-    "minimist": "0.0.8"
-  },
   "devDependencies": {
     "eslint": "^8.57.0"
   }
